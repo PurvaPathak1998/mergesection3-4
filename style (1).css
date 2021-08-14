@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.skillsrequirescontainer {
+  width: 100%;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.skillsrequiredheading {
+  width: 100%;
+  display: flex;
+  padding: 15px 0;
+  justify-content: center;
+  align-items: center;
+}
+.skillsrequiredheadingtext {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #003654;
+}
+.perksskillscontainer {
+  width: 100%;
+  padding: 25px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.perkspicture {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.perkspicture img {
+  width: 155px;
+  height: 112px;
+}
+.disc {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  padding: 10px 10px;
+  color: #000000;
+}
+.perksheading {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.perksheadingtext {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  color: #003654;
+}
+.perksContainer {
+  display: flex;
+  flex-direction: column;
+  width: 96%;
+  padding: 15px 15px;
+  box-shadow: 1px 3px rgb(153, 153, 153);
+  background: #f8f8f8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 26px;
+}
+
+.perksList {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 25px 10px;
+}
+.blueBox {
+  width: 22px;
+  height: 22px;
+  background: #457492;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.PerlListItem {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.perksoutercontainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
